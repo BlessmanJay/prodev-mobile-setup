@@ -55,4 +55,5 @@ This ensures the project structure and configuration return to their default sta
 - The process can take a few minutes since all dependencies are freshly downloaded.
 
 - After reset, you can continue development by starting the dev server:
-  npm run dev
+
+npm run dev
